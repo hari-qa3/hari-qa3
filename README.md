@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hari-qa3
+- 👋 Hi, I’m Hari Shankar
 - 👀 I’m interested in the prospect of coding to solve problems
 - 🌱 I’m currently learning automation
 
